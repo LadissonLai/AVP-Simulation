@@ -11,7 +11,7 @@ This is a co-simulation project of AVP (Automated Valet Parking) based on CARLA 
 - GPU 8GB or more
 ## Installation
 The overall installation includes four parts:
-- CARLA installation
+- [CARLA](https://github.com/carla-simulator/carla) installation
 - ROS2 installation
 - Autoware installation
 - ros-agent bridge installation
